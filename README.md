@@ -1,2 +1,5 @@
 # Justin-Tsuchiyama
-This repository contains a little information about myself.
+
+I've always found programming so interesting because there are so many different ways to solve the same problem and I love finding creative solutions. Because of this, I went to study Computer Science at UC Santa Cruz and graduated with a Bachelor's in 2020. The focus of my study there was Object Oriented Programming languages, but I was able to learn about frontend developement through specific classes. Since college, I worked at Apple for a number of months. I enjoyed working for Apple, but the job did not require much programming, so I decided to take a job at Revature to finally get my foor in the door to the industry I've always wanted to work.
+
+I believe I'm a good fit for this industry because I'm a quick learner and I can communicate well with a team. I'm a quick learned because I've always been the type to try new games and competitions. Trying something new for a first time requires that you are able to quickly find better strategies than those you compete against and it's that type of challenge that makes you quickly adaptable.
